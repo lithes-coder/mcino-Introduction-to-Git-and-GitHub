@@ -7,12 +7,12 @@
 # lithes-coder
 
 # Input:
-# p, principal amount
-# t, time period in years
-# r, annual rate of interest
+# Principal
+# Rate of interest
+# Time period
 
 # Output:
-# simple interest = p*t*r
+# Simple Interest = (Principal * Rate * Time) / 100
 
 echo "Enter the principal:"
 read p
